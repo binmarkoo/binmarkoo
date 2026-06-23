@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Marko Mikanovic<br>Age: 20<br>Passion: Frontend Development<br>Currently: HTL Graduate
+Name: Marko Mikanovic<br>Age: 20<br>Frontend Development<br>HTL Graduate
 
 
 # 💻 Tech Stack:
