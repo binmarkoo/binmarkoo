@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Marko Mikanovic (20)<br>Frontend Development<br>HTL Graduate
+Name: Marko Mikanovic (20)<br>Frontend Development<br>Informatik-HTL Graduate
 
 
 # 💻 Tech Stack:
